@@ -1,8 +1,4 @@
-Here is a **README.md content** you can add to your repository on GitHub for the file **`fuzzy_logic.py`**.
 
-You can create a file named **README.md** and paste this:
-
-````markdown
 # AI Smart Traffic Control System using Fuzzy Logic
 
 ## Overview
